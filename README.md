@@ -35,3 +35,14 @@ at https://hub.docker.com
 
 #### Pull an image from a Docker Hub
 ```docker pull <image_name>```
+
+## GENERAL COMMANDS
+
+#### Start the docker daemon
+```docker -d```
+
+#### Get help with Docker. Can also use –help on all subcommands
+```docker --help```
+
+#### Display system-wide information
+```docker info```
