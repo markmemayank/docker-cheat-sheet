@@ -79,7 +79,7 @@ A container is a runtime instance of a docker image. A container will always run
 ```docker ps```
 
 #### List all docker containers (running and stopped):
-```docker ps --all```
+```docker ps --all``` or ```docker ps -a```
 
 #### View resource usage stats
 ```docker container stats```
